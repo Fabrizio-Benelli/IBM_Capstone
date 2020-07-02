@@ -1,2 +1,2 @@
 # IBM_Capstone
-a jupiter nootbook capstone project course
+a jupyter nootbook capstone project course
